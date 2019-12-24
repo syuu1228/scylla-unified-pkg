@@ -1,0 +1,9 @@
+[submodule "scylla"]
+	path = scylla
+	url = git@github.com:scylladb/scylla.git
+[submodule "scylla-tools-java"]
+	path = scylla-tools-java
+	url = git@github.com:scylladb/scylla-tools-java.git
+[submodule "scylla-jmx"]
+	path = scylla-jmx
+	url = git@github.com:scylladb/scylla-jmx.git
